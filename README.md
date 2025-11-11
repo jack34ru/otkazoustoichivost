@@ -11,6 +11,8 @@
 Скриншот 1 к решению 1
 ![Screen 1](https://github.com/jack34ru/otkazoustoichivost/blob/master/screens/Screenshot_127.png)
 
+Файл конфига HAProxy:
+![Screen 1](https://github.com/jack34ru/otkazoustoichivost/blob/master/files/haproxy_1.cfg)
 
 ### Задание 2
 - Запустите три simple python сервера на своей виртуальной машине на разных портах
