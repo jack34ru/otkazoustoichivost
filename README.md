@@ -9,7 +9,7 @@
 ### Решение 1
 
 Скриншот 1 к решению 1
-![Screen 1](https://github.com/jack34ru/Zabbix-HW2/blob/master/screens/Screenshot_120.png)
+![Screen 1](https://github.com/jack34ru/otkazoustoichivost/blob/master/screens/Screenshot_127.png)
 
 
 ### Задание 2
